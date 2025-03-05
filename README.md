@@ -1,2 +1,2 @@
 # Topicos-Engenharia-de-software
-Chatbot - Sistema de rescomendação - RAG
+Chatbot - Sistema de recomendação - RAG
